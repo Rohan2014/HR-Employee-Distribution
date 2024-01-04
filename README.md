@@ -6,7 +6,7 @@ Data Cleaning & Analysis - MySQL Workbench
 
 Data Visualization - PowerBI
 
-Key Insights:
+# Key Insights:
 - Male representation exceeds female within the workforce.
 - Predominantly, employees identify as White, with Native Hawaiian and American Indian representations being the least.
 - The workforce age spectrum ranges from 20 to 57 years, with a concentration of employees in the 25-34 and 35-44 age brackets, and fewer individuals in the 55-64 range.
@@ -18,6 +18,6 @@ Key Insights:
 - Over time, there has been a net positive trend in employee count.
 - The average departmental tenure hovers around 8 years, with the Legal and Auditing departments at the upper end and Services, Sales, and Marketing at the lower end.
 
-Study Constraints:
+# Study Constraints:
 - A subset of data featuring negative ages was omitted from the analysis, impacting 967 records. Only ages 18 and above were considered.
 - Termination dates that extended beyond the present were disregarded, affecting 1599 records. Termination dates included in the study were those on or before the current date.
